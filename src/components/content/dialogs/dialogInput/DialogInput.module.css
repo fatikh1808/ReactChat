@@ -1,0 +1,5 @@
+.dialogInput {
+    grid-area: input;
+    place-self: center;
+    text-align: center;
+}

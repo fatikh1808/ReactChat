@@ -1,0 +1,7 @@
+.feedPhoto {
+    grid-area: feedPhoto;
+    text-align: center;
+}
+.feedPhoto img {
+    width: 280px;
+}

@@ -1,0 +1,10 @@
+.dialog {
+    display: grid;
+    grid-template-columns: 0.4fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 1px 1px;
+    grid-template-areas: "dialogPeople startDialog";
+    grid-area: content;
+    min-height: fit-content;
+}
+

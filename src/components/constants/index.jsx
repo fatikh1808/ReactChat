@@ -1,0 +1,4 @@
+export const FEED_TEXT_CHANGE = 'FEED_TEXT_CHANGE';
+export const FEED_SEND = 'FEED_SEND';
+export const MESSAGE_TEXT_CHANGE = 'MESSAGE_TEXT_CHANGE';
+export const MESSAGE_SEND = 'MESSAGE_SEND';

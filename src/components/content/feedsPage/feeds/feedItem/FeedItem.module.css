@@ -1,0 +1,18 @@
+.feedItem {
+    width: auto;
+    margin: 10px;
+}
+
+.feedItem div {
+    margin: 5px;
+    text-align: right;
+}
+.feedItem span {
+    margin: 15px;
+    vertical-align: top;
+}
+
+.feedItem img {
+    width: 80px;
+    border-radius: 50px;
+}

@@ -1,0 +1,11 @@
+.content {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 200px 100px auto;
+    gap: 1px 1px;
+    grid-template-areas: "feedPhoto" "feedInput" "feeds";
+    grid-area: content;
+    min-height: fit-content;
+}
+
+

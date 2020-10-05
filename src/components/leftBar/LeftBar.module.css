@@ -1,0 +1,10 @@
+.leftBar {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 0.5fr;
+    gap: 1px 1px;
+    grid-template-areas: "mainButtons" "adds";
+    grid-area: leftBar;
+    background: rgb(158,175,242);
+    background: linear-gradient(180deg, rgba(158,175,242,1) 0%, rgba(255,255,255,1) 80%);
+}

@@ -1,0 +1,9 @@
+.profile {
+    display: grid;
+    grid-template-columns: 1fr 2.5fr;
+    grid-template-rows: 1fr;
+    grid-gap: 1px;
+    grid-template-areas: "profilePhoto profileInfo";
+    grid-area: content;
+    min-height: fit-content;
+}

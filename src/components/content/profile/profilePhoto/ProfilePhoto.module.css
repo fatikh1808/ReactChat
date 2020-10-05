@@ -1,0 +1,8 @@
+.profilePhoto {
+    grid-area: profilePhoto;
+    text-align: -webkit-center;
+}
+
+.profilePhoto img {
+    height: 250px;
+}

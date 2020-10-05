@@ -1,0 +1,4 @@
+.feeds {
+    grid-area: feeds;
+    justify-self: center;
+}

@@ -1,0 +1,5 @@
+.feedInput {
+    grid-area: feedInput;
+    place-self: center;
+    text-align: center;
+}
