@@ -3,6 +3,7 @@ import React from "react";
 import Input from "../../../ui/input/Input";
 import Button from "../../../ui/button/Button";
 
+
 const FeedInput = (props) => {
 
     const {newText, dispatch} = props;

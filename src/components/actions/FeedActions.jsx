@@ -1,14 +1,14 @@
 import * as t from '../constants'
 
-export const sendMessage = () => {
+export const sendFeed = () => {
     return {
-        type: t.MESSAGE_SEND
+        type: t.FEED_SEND
     }
 }
 
-export const changeMessageText = (body) => {
+export const changeFeedText = (body) => {
     return {
-        type: t.MESSAGE_TEXT_CHANGE,
+        type: t.FEED_TEXT_CHANGE,
         body: body
     }
 }
